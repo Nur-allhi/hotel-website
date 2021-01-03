@@ -1,3 +1,3 @@
 # hotel-websitee
 
-###Its a new redme file.
+### Its a new readme file.
